@@ -62,7 +62,7 @@ const Navbar = () => {
                 {link.name}
               </Button>
             ))}
-            <Link to="https://drive.google.com/file/d/1xgJ0PEp-ZG1cwvuUVHHi7YCA7kSwHQq9/view?usp=sharing">
+            <Link to="https://drive.google.com/file/d/1SjeftmW949nwCL7kBQfiuyk1pAhzkHlD/view?usp=sharing">
               <Button variant="nav" size="sm" className="text-sm lg:text-base gap-1">
                 <FileText size={16} />
                 Resume
